@@ -1,0 +1,6 @@
+{
+	"clientId": "your_client_id",
+	"guildId": "your_server_id",
+	"token": "your_bot_token",
+	"fnToken": "your_fortniteapi.io_token"
+}
