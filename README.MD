@@ -7,7 +7,7 @@
 5. Download `index.js` and put it in a folder named something like `FortniteAPI`
 6. Use this code
 ```
-const FN = require('./FortniteAPI');
+const FN = require('../FortniteAPI');
 FN.GetStats(PLAYER_ID,LANG,API_KEY);
 ```
 
