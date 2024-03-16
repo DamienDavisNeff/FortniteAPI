@@ -6,10 +6,11 @@
 4. Locate your API key, you'll need it later
 5. Download `index.js` and put it in a folder named something like `FortniteAPI`
 6. Use this code
-```
+
+```js
 const FN = require('../FortniteAPI');
 FN.GetStats(PLAYER_ID,LANG,API_KEY);
 ```
 
-#### NOTE: This library is not directly assosiated with FortniteAPI.io
-#### NOTE: This library is not assosiated or endorsed by Epic Games, Inc.
+**NOTE: This library is not directly assosiated with FortniteAPI.io**
+**NOTE: This library is not assosiated or endorsed by Epic Games, Inc.**
