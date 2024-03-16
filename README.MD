@@ -10,6 +10,7 @@
 const FN = require('../FortniteAPI');
 FN.GetStats(PLAYER_ID,LANG,API_KEY);
 ```
+*All endpoints are visible in `index.js`*
 
 **NOTE: This library is not assosiated with FortniteAPI.io**
 <br>
